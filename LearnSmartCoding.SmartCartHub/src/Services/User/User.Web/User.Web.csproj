@@ -25,6 +25,7 @@
 		<PackageReference Include="Microsoft.Identity.Web" Version="2.15.3" />		
 		
 	</ItemGroup>
+	
 
 	<ItemGroup>
 	  <ProjectReference Include="..\User.Core\User.Core.csproj" />
